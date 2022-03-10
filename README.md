@@ -33,6 +33,7 @@ Each payload will have a limit of 50 records.
       { ... }, // RegistryRecord
       { ... } // RegistryRecord
   ],
+  "total": 4,
   "links": {
     "prev" // String, url to prev page (if any)
     "next" // String, url to next page (if any)
