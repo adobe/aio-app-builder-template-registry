@@ -1,0 +1,4 @@
+{
+  "name": "Sample App Builder Registry",
+  "registry": "https://raw.githubusercontent.com/adobe/aio-app-builder-template-registry/main/data/registry.json"
+}
